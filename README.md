@@ -1,2 +1,2 @@
 # Tap_Kappa
-Application Game ที่นำไอเดียมาจากเกม Tap Titan นำมาผสมผสานตัวละครและสกิลจากเกม Dota2 
+The game application combines ideas from the "Tap Titan" game and characters and skills from the "Dota2" game.
